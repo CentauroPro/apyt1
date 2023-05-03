@@ -1,0 +1,26 @@
+h1{
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+    font-size: 9mm;
+    text-align: center;
+   
+
+}
+
+.pie{
+
+  
+
+    background-size: cover;
+    min-height: 5vh;
+    
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/LaBelleAurore-Regular.ttf);
+    font-size: 100%;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+  
+}

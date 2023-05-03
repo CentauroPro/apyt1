@@ -1,0 +1,12 @@
+.error{
+
+    text-align: center;
+    background: url(/assets/images/error.jpg )yellow;
+    background-size: cover;
+    min-height: 100vh;
+    width:1940x;
+    height: 1300%;
+}
+h1{
+    color: #ff8000;
+}

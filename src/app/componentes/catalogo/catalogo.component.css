@@ -1,0 +1,16 @@
+
+.cuerpo{
+
+
+    background-size: cover;
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/LaBelleAurore-Regular.ttf);
+    font-size: 260%;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+  
+}

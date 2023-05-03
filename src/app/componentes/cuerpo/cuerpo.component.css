@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+  
+  }
+  h1{
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+    font-size: 15mm;
+
+
+    @font-face {
+        font-family:OoohBaby-Regular ;
+        src: url(/assets/fonts/OoohBaby-Regular.ttf);
+    }
+  }
+  h5{
+    font-family: 'OoohBaby-Regular';
+    src: url(/assets/fonts/OoohBaby-Regular.ttf);
+    font-size: 9mm;
+  }
+  .img-thumbnail{
+    height: 200px; ;
+    width: 200px;
+  }
+
+  @font-face {
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+  
+  }
+  
+h3,a :hover{
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+    font-size: 6mm;
+    
+    -webkit-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+    border-radius: 80px;
+  }
+  container-fluid{
+    text-align: center;
+  }
+  .h1{
+    text-align: center;
+
+  }
+  .p{
+    text-align: center;
+    font-size: 9mm;
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+   
+
+
+  }
+
+
+  .boton{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+
+  }
+  .container-fluid {
+
+    background: url(/assets/images/fondo.jpg) no-repeat;
+    background-size: cover;
+    min-height: 40vh;
+  }
+  img{
+    width: 500px;
+    height: 500px;
+}
+
+main{
+    background:cornsilk;
+}
+.cuerpo{
+    background: #f0f0ff;
+}
+
+.a{
+  text-decoration: none;
+}
+.a2{
+  text-decoration: none;
+}
+.a3{
+  text-decoration: none;
+}

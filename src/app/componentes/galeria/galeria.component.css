@@ -1,0 +1,27 @@
+.container-fluid {
+
+    background: url(/assets/images/fondo.jpg) no-repeat;
+    background-size: cover;
+    min-height: 10vh;
+  }
+  .h1{
+    text-align: center;
+	font-size: 8mm;
+
+  }
+  .p{
+    text-align: center;
+    font-size: 4mm;
+    font-family: 'LaBelleAurore';
+    src: url(/assets/fonts/Tapestry-Regular.ttf);
+   
+
+
+  }
+
+
+  .boton{
+    display: flex;
+    justify-content: center;
+
+  }
